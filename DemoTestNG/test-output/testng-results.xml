@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10636" started-at="2017-07-14T06:50:02Z" finished-at="2017-07-14T06:50:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10636" started-at="2017-07-14T06:50:02Z" finished-at="2017-07-14T06:50:12Z">
+      <class name="DemoTestNG.NewTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:DemoTestNG.NewTest@26be92ad]" name="init" is-config="true" duration-ms="5959" started-at="2017-07-14T13:50:02Z" finished-at="2017-07-14T13:50:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="login()[pri:0, instance:DemoTestNG.NewTest@26be92ad]" name="login" duration-ms="2781" started-at="2017-07-14T13:50:08Z" finished-at="2017-07-14T13:50:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="title()[pri:0, instance:DemoTestNG.NewTest@26be92ad]" name="title" duration-ms="1374" started-at="2017-07-14T13:50:11Z" finished-at="2017-07-14T13:50:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- title -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:DemoTestNG.NewTest@26be92ad]" name="afterClass" is-config="true" duration-ms="508" started-at="2017-07-14T13:50:12Z" finished-at="2017-07-14T13:50:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- DemoTestNG.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
